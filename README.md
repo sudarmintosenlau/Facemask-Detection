@@ -13,4 +13,6 @@ Berikut kriteria submission yang harus dipenuhi:
 * Membuat **plot terhadap akurasi dan loss model**.
 * Menulis kode untuk menyimpan model ke dalam format **TF-Lite**.
 
-Course ini dapat diakses melalui https://www.dicoding.com/academies/185
+Course ini dapat diakses melalui https://www.dicoding.com/academies/185.
+
+Dataset yang digunakan diambil dari situs [kaggle](https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset).
